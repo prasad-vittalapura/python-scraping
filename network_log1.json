@@ -1,0 +1,521 @@
+{
+  "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/x-www-form-urlencoded",
+      "params": [
+        {
+          "name": " ",
+          "value": "",
+          "comment": ""
+        }
+      ],
+      "comment": ""
+    }
+  },
+  "https://qa.unifitestsite.com/mit/?widgetload=y&amount=100&flowType=pdp&partnerId=PI53421676": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/mit/env-config.js": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/mit/static/css/2.e37b89c0.chunk.css": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/mit/static/css/main.c3be6002.chunk.css": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/mit/static/js/2.18cb48cd.chunk.js": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/mit/static/js/main.4a203c32.chunk.js": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/akam/13/5a307883": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/fonts/FuturaBT-Book.woff2": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/UniFi.js": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/env-config.js": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/akam/13/pixel_5a307883": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/x-www-form-urlencoded",
+      "params": [
+        {
+          "name": "ap",
+          "value": "true",
+          "comment": ""
+        },
+        {
+          "name": "bt",
+          "value": "{\"charging\":true,\"chargingTime\":\"Infinity\",\"dischargingTime\":\"Infinity\",\"level\":0.38,\"onchargingchange\":null,\"onchargingtimechange\":null,\"ondischargingtimechange\":null,\"onlevelchange\":null}",
+          "comment": ""
+        },
+        {
+          "name": "fonts",
+          "value": "null",
+          "comment": ""
+        },
+        {
+          "name": "fh",
+          "value": "null",
+          "comment": ""
+        },
+        {
+          "name": "timing",
+          "value": "{\"1\":125,\"2\":245,\"3\":357,\"4\":469,\"5\":574,\"6\":675,\"profile\":{\"bp\":2,\"sr\":0,\"dp\":1,\"lt\":0,\"ps\":0,\"cv\":103,\"fp\":0,\"sp\":5,\"br\":0,\"ieps\":0,\"av\":0,\"z1\":10,\"jsv\":1,\"nav\":1,\"nap\":1,\"crc\":1,\"z2\":1,\"z3\":1,\"z4\":2,\"z5\":1,\"z6\":1},\"main\":327,\"compute\":125,\"send\":675}",
+          "comment": ""
+        },
+        {
+          "name": "bp",
+          "value": "2087755996,1953464915,591862434,325835597,1068473606,-1382186647,-365096851,-1979186206,-108039040,-1906852049",
+          "comment": ""
+        },
+        {
+          "name": "sr",
+          "value": "{\"inner\":[1036,522],\"outer\":[1050,660],\"screen\":[10,10],\"pageOffset\":[0,0],\"avail\":[1280,680],\"size\":[1280,720],\"client\":[1019,522],\"colorDepth\":24,\"pixelDepth\":24}",
+          "comment": ""
+        },
+        {
+          "name": "dp",
+          "value": "{\"XDomainRequest\":0,\"createPopup\":0,\"removeEventListener\":1,\"globalStorage\":0,\"openDatabase\":1,\"indexedDB\":1,\"attachEvent\":0,\"ActiveXObject\":0,\"dispatchEvent\":1,\"addBehavior\":0,\"addEventListener\":1,\"detachEvent\":0,\"fireEvent\":0,\"MutationObserver\":1,\"HTMLMenuItemElement\":0,\"Int8Array\":1,\"postMessage\":1,\"querySelector\":1,\"getElementsByClassName\":1,\"images\":1,\"compatMode\":\"CSS1Compat\",\"documentMode\":0,\"all\":1,\"now\":1,\"contextMenu\":0}",
+          "comment": ""
+        },
+        {
+          "name": "lt",
+          "value": "1693492979716+5.5",
+          "comment": ""
+        },
+        {
+          "name": "ps",
+          "value": "true,true",
+          "comment": ""
+        },
+        {
+          "name": "cv",
+          "value": "bd8bdf2b61c508d7b41f50d98b995bcc5e25d04b",
+          "comment": ""
+        },
+        {
+          "name": "fp",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "sp",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "br",
+          "value": "Chrome",
+          "comment": ""
+        },
+        {
+          "name": "ieps",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "av",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "z",
+          "value": "{\"a\":1513126278,\"b\":1,\"c\":1}",
+          "comment": ""
+        },
+        {
+          "name": "zh",
+          "value": "",
+          "comment": ""
+        },
+        {
+          "name": "jsv",
+          "value": "1.5",
+          "comment": ""
+        },
+        {
+          "name": "nav",
+          "value": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36\",\"appName\":\"Netscape\",\"appCodeName\":\"Mozilla\",\"appVersion\":\"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36\",\"appMinorVersion\":0,\"product\":\"Gecko\",\"productSub\":\"20030107\",\"vendor\":\"Google Inc.\",\"vendorSub\":\"\",\"buildID\":0,\"platform\":\"Win32\",\"oscpu\":0,\"hardwareConcurrency\":4,\"language\":\"en-US\",\"languages\":[\"en-US\",\"en\"],\"systemLanguage\":0,\"userLanguage\":0,\"doNotTrack\":null,\"msDoNotTrack\":0,\"cookieEnabled\":true,\"geolocation\":1,\"vibrate\":1,\"maxTouchPoints\":0,\"webdriver\":true,\"plugins\":[\"PDF Viewer\",\"Chrome PDF Viewer\",\"Chromium PDF Viewer\",\"Microsoft Edge PDF Viewer\",\"WebKit built-in PDF\"]}",
+          "comment": ""
+        },
+        {
+          "name": "crc",
+          "value": "{\"window.chrome\":{\"app\":{\"isInstalled\":false,\"InstallState\":{\"DISABLED\":\"disabled\",\"INSTALLED\":\"installed\",\"NOT_INSTALLED\":\"not_installed\"},\"RunningState\":{\"CANNOT_RUN\":\"cannot_run\",\"READY_TO_RUN\":\"ready_to_run\",\"RUNNING\":\"running\"}}}}",
+          "comment": ""
+        },
+        {
+          "name": "t",
+          "value": "cb936a80c07df03111737e27fe93085af368c5a3",
+          "comment": ""
+        },
+        {
+          "name": "u",
+          "value": "ba32dbe67521561496ca970658e47466",
+          "comment": ""
+        },
+        {
+          "name": "nap",
+          "value": "21321144241322243122",
+          "comment": ""
+        }
+      ],
+      "comment": ""
+    }
+  },
+  "https://qa.unifitestsite.com/zetail/fonts/FuturaBT-Book.woff2": {
+    "method": "GET"
+  },
+  "https://qwidgets.syfpos.com/syf-widget.js?partnerId=PI53421676&productCategoryNames=&processInd=%20&cid=unifitest&syfPlatform=&flowType=PDP": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/fonts/FuturaBT-Book.woff": {
+    "method": "GET"
+  },
+  "https://qwidgets.syfpos.com/syf-widget-internal.html?partnerId=PI53421676&flowType=PDP&subFlowType=&cid=unifitest": {
+    "method": "GET"
+  },
+  "https://qwidgets.syfpos.com/syf-widget-internal.latest.js?partnerId=PI53421676&flowType=PDP&subFlowType=": {
+    "method": "GET"
+  },
+  "https://qwidgets.syfpos.com/content?partnerId=PI53421676&flowType=PDP&syfToken=MPP": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/json",
+      "text": "{\"price\":100,\"productCategoryNames\":\"\",\"syfToken\":\"MPP\"}",
+      "comment": ""
+    }
+  },
+  "https://qpdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068991.svg": {
+    "method": "GET"
+  },
+  "https://tags.syf.com/syf-unifi-spa/dev/utag.js": {
+    "method": "GET"
+  },
+  "https://pos.qapply.syf.com/cs/groups/public/documents/et_imagetype/etimg068315.svg": {
+    "method": "GET"
+  },
+  "https://analytics.synchrony.com/synchrony/digitalposdev/Bootstrap.js": {
+    "method": "GET"
+  },
+  "https://tags.tiqcdn.com/utag/synchrony/syf-unifi-spa/dev/utag.5.js?utv=ut4.49.202308211650": {
+    "method": "GET"
+  },
+  "https://analytics.synchrony.com/synchrony/digitalposdev/serverComponent.php?namespace=Bootstrapper&staticJsPath=/synchrony/digitalposdev/code/&publishedOn=Wed%20Aug%2009%2010:27:10%20GMT%202023&ClientID=1966&PageID=https%3A%2F%2Fqwidgets.syfpos.com%2Fsyf-widget-internal.html%3FpartnerId%3DPI53421676%26flowType%3DPDP%26subFlowType%3D%26cid%3Dunifitest&custDomain=analytics.synchrony.com": {
+    "method": "GET"
+  },
+  "https://analytics.synchrony.com/synchrony/digitalposdev/code/5c43874e684226d360af29c3baa800c1.js?conditionId0=423131": {
+    "method": "GET"
+  },
+  "https://synchronyfinancial.d1.sc.omtrdc.net/b/ss/synchronytest1/1/JS-2.23.0/s45163532066235?AQB=1&ndh=1&pf=1&t=31%2F7%2F2023%2020%3A13%3A3%204%20-330&sdid=2503AAA4B7D16CCA-491A8D1C98AF7664&mid=49618902460407002633277264889306831414&ce=ISO-8859-1&ns=synchronyfinancial&cdp=3&pageName=us%7Ceng%7Cdigitalpos%7Cdesktop%7Cps%7Celectronic%20express%7Cconsumer%7Cpdp%7Cmerchant%7Coffers_widget%7Coffer_details_page&g=https%3A%2F%2Fqwidgets.syfpos.com%2Fsyf-widget-internal.html%3FpartnerId%3DPI53421676%26flowType%3DPDP%26subFlowType%3D%26cid%3Dunifitest&r=https%3A%2F%2Fqa.unifitestsite.com%2F&cc=USD&ch=digitalpos&server=us%7Ceng%7Cdigitalpos&events=event10&v0=unifitest&c1=us%7Ceng&v1=us%7Ceng&h1=us%7Ceng%7Cdigitalpos%7Cdesktop%7Cps%7Celectronic%20express%7Cconsumer%7Cpdp%7Cmerchant%7Coffers_widget%7Coffer_details_page&c2=digitalpos&v2=digitalpos&c3=desktop&v3=desktop&c4=ps&v4=ps&c5=electronic%20express&v5=electronic%20express&c6=consumer&v6=consumer&c7=pdp&v7=pdp&c8=merchant&v8=merchant&c9=offer_details_page&v9=offer_details_page&c20=offers_widget&v20=offers_widget&c29=https%3A%2F%2Fqwidgets.syfpos.com%2Fsyf-widget-internal.html%3FpartnerId%3DPI53421676%26flowType%3DPDP%26subFlowType%3D%26cid%3Dunifitest&v29=https%3A%2F%2Fqwidgets.syfpos.com%2Fsyf-widget-internal.html%3FpartnerId%3DPI53421676%26flowType%3DPDP%26subFlowType%3D%26cid%3Dunifitest&c38=merchant%3Aoffers_widget%3Aoffer_details_page&v38=merchant%3Aoffers_widget%3Aoffer_details_page&v74=A&v136=MPP&v137=POS&v139=pdp&v145=POS&v146=PDP-Widget&v147=dual&v148=100&v149=PI53421676&v154=c777f134-1c04-4d2c-ae80-466c6543bb01&s=1280x720&c=24&j=1.6&v=N&k=N&mcorgid=22602B6956FAB4777F000101%40AdobeOrg&AQE=1": {
+    "method": "GET"
+  },
+  "https://qa.unifitestsite.com/zetail/fonts/FuturaBT-Book.woff": {
+    "method": "GET"
+  },
+  "https://qwidgets.syfpos.com/syftoken?partnerId=PI53421676": {
+    "method": "GET"
+  },
+  "https://synchronyfinancial.d1.sc.omtrdc.net/b/ss/synchronytest1/1/JS-2.23.0/s47323964052143?AQB=1&ndh=1&pf=1&t=31%2F7%2F2023%2020%3A13%3A30%204%20-330&sdid=06908C7E7CA990B3-4B83AA0F4329357C&mid=49618902460407002633277264889306831414&ce=ISO-8859-1&ns=synchronyfinancial&cdp=3&pageName=us%7Ceng%7Cdigitalpos%7Cdesktop%7Cps%7Celectronic%20express%7Cconsumer%7Cpdp%7Cmerchant%7Coffers_widget%7Coffer_details_page&g=https%3A%2F%2Fqwidgets.syfpos.com%2Fsyf-widget-internal.html%3FpartnerId%3DPI53421676%26flowType%3DPDP%26subFlowType%3D%26cid%3Dunifitest&cc=USD&server=us%7Ceng%7Cdigitalpos&events=event35&c2=digitalpos&v2=digitalpos&c35=merchant%3Aoffers_widget%3Aoffer_details_page%3Abody%3ALearn%20how%3Alink&v35=merchant%3Aoffers_widget%3Aoffer_details_page%3Abody%3ALearn%20how%3Alink&v74=A&v136=MPP4PI534216761693493010878&v149=PI53421676&v154=c777f134-1c04-4d2c-ae80-466c6543bb01&s=1280x720&c=24&j=1.6&v=N&k=N&mcorgid=22602B6956FAB4777F000101%40AdobeOrg&lrt=618&AQE=1": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/syfMPPStyles.css": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e070441.svg": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/mpp?partnerId=PI53421676&amount=100&syfToken=MPP4PI534216761693493010878&productCategoryNames=&flowType=PDP&cid=unifitest&mppFromAnyWhereInputFlag=undefined": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mppcore/analyticsScriptFlag": {
+    "method": "GET"
+  },
+  "https://pos.qbuy.syf.com//digitalbuy/images/ajax-loader.gif": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/static/css/main.2da5b91b.css": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/_sec/cp_challenge/sec-4-0.css": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/Dr4pZyR6K29J60x10g/wEJuJSNNNzc5N9/LloSAg/UHQ/jCUg2aBI": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "text/plain;charset=UTF-8",
+      "text": "{\"sensor_data\":\"2;4469313;3487026;7,120,0,1,3,236;t=f977;eP=F[kqd^$OM<LGQhJl.~E[/Y+n)JiWf=.8Dq%rFH{!R5}1?N eg}>d>]EoOW019(Yi(T|bMD6.^R~Tj SBSO*@/VHnL,:MYB,IE6]8oF&v`N7g*:}y)@a~lC)qp(ip^K[Jb2u3v|axdb.v*g8/O]=ZP.khn@&5y$W%(lcaErP`WH*E9SfGEt[QYCKx/#GX{lg?or6Bx6KImFY{JO-/MREhi6-t[7t>cyp@fI.Wu.*GV8R5,]:Y]pf75q/~5o[md3;e&8DdQfbkuj7VMxx$>=MbcT[T[50N1(AoRD9bQ$v*GXKk g_dU2(ghTebdVc!]VXR99+MFsZ$gmq#Q8CH3`nYTblgtL>j|*5*anu-=us::O.0icj*l:WNe^rTm~D,_~^I2DCk)Y|?RB,3}^`y^nhk2*IplbtFPS{Z:g-:T3D.@ry? s:W^#C/?S!5WSYUBf#j& 2lrV([9PpwRp?m^5jN}v7Y3>M(BM(lK#U!O/Q8^5@uhW&oNNNK4V#:Oj&~q2klf#i-O:kn$gg!DRzWT7ijI`$T}4G}&~VX` H5TE!r64J}r2X6)yK$EcEX1Ee/xT}r2x9!Ig, H|`N>ZsGq!EZAWZiFfz(4ukq#Ls]6G$|XAmK`pw7ALzTyX}97u.H6rmVyIcrbv=@{]<bJ[rUl}[|U6|N,b<JQ:7InCyy^mXQ;?vSi?*p(/tI:ZS0yRy;MH2XkVE:`_/*O(-Q:1Ql0[`cx^/8X)9-QG4jVtV0wa|7aWpbT|R<8%k|h}SX,1sb*U)ZLmKhWwt!Lcj/V[%a6U53|XlFGx}6hd^8jbU_i&%<GP>@X@JILK2~Jnh.5K],b5|~R~F_b)UHZpWW6iN|T+Ufr7Ec@0TFS4xXW5X<MC#P)A;h| ?L#XbN`K[Yk[^3]%4w^Wer1Xn%MjnnWDVqIF)+ziCPd[Z.r7R@zy<Qg|2}V^q`7Dz+xGIAgg-%<<?-o+MH-5U 7[BewQQ#TEQgt!nq1* /`%0se#HQ5Xd0I(L4O(BP9Ya3!am CTw$NRlGMy?17Zo8c@t]tYf){wO%{gyJFd:E:$9.$R(2tQ]BlB2t@v1V[S2P[_ztmpDY&W^LX%ae41#3k|+Q~W(Gw#b:l;Uw?5Id<E;ztU,k9A5zLC$CN85=mxzb<g5W.Q1c=MQF/@>$nFmG:2yq;HZ@7:9#88iJg7zH6N$xPt[z!n<1kb;ijt3qB$? ff o~@2]FmTo.!emLP0~ez,@og6p-2]lR],Q+6Rc?}Rnsuj|C$jcZWNXSN-pLKDI[hke;1c&Wwd&[!YyH$np]urws$VVlB5+c{]6wW`HBng#II7)-*qinz,6==3x6}|yFbxkQ;HIw9~Ba8Lp6CExPY ?:eCJe@?W[z1l_yko]@/l|snxVEC[Sy.L=6MQ[<Dp |kc6~4S-D@D{R:E!Mr[8_C@vdR!dz3;yLLcD5FDUm@{ze|b9H?4ouZ$2KTY9}-N,cf[vm-y?*9vH( jZOW-6pybo=8E3|FP:w##-<^Ukk9W=]y|Wue$N7Y+=(_qQFhGOdh$>Q9[.t$*)8N?PmqTiOqD1EUw]^&F3)0AZbMJmlxk`7RXPorC|-%h)`P<6*X4R~06*kE]&.B__+5*ZLeH>%/kx(4_`V6md-o%$j@)/lQ%[-2_q/Nr:>BhPv+gtpR#:*Ii3e<M8?gT)<u.}}*bA&+]=w,sz,#IZGZ4&?)?x8r`xK-IM-H/ujSEyMzY]33>=M#V8~,]Fe(QqL<N_@jY82J_<3tDy?(ss&jv(76Avf:DaN/c_OpP^YTRkx?.q*o$z5^stUP~n2t-Q3#dhKmjotfx]gJ+OwVdx6t;Iaa7ld[X*hU/pwbaZWiMcalMmYy}3c`?tPmON*e%JlIu8~s!u.+2/;/qE{m&7m8b{lv[N;}?lp~OxlM`b$uW?W!z_3BIl8IctLFPX/1Y}H6k>/<>Nlj8@T;J|SRg;sc;<7S5G72LI4P%abPr&JRq)=:3t_`!]+*m6r4ttp~K/GITj)joGt*Ya&$2mRj+b;@2G?MZoP[;!CB4r(.Sg,I1BtdjNEo&i@L9XS0*:24zf#=),0?fjMrRl(ER>4EsZIJBCQj?ZVgQ>^@rl  w%csC}ga*]K TFV<KhuDJmlGqj!AWRb&Wlj,v.b|3E,`scl/8YjAW}yI3/[ 31J_Fac$k;s*UQW}ZOFhn:_9Iz%C@AvFLJw7lY=uZ1q>_ZoL}xo9M~E$5o-#!67S.w;jH>j^4X])]jCNcgd^|VO](%HhmJ[9x+22w&N% cRnL`w(cm r=pp^!k&%9;}m|8oj+Ei}%;]Y=EaN.NM D3]Jya=`wqKR04rD7uzilXK/q)E8xBE3S.*f8#I.;cQ?`s2@=Of!5sPXiX&tb^9M 8voR?r%l^ H;_R4+&6-l$5?[#Or=a#iF<q@`sNl}L NHf(n{|-{F3J-lyfnn2dJ#rzhNSul5Z_f=dtMMbs!46724K)90n8/RSPZ=Bs$R|udF&h24=fe[Qj0~&-M;X[H;8#i [ )<QRaXXx>Y*/q [^/>xBXjl^*;w]8,pm`S.P#||~I>NJn{g)ar|c.-m$^?wFtMa]/y>m|dZlm|D@=_ JPWtgy@=z{,C[D8*]8O4;VQYPhKXtS-t@`? $-69Z|lSZ5Z$|-;7qW_Pih/`Ri$1&3<[|h&Cp[zB5`m!)-NO5x}1%Ur;_ZsJjDVK:CG[s0.|Tkv&Uz)Z,+P4UeD8A4e51/&7#H|Pqf3Ib]NiwsC;hE]~X]n^fi!FiJ(aVG/6Q9a64>tc:52(d_^n9T;g+l:QFElx3;|W-T]{iT^<z+9:={^#C-gN{kjZd!mbX44&jZ{v$nudYfV@c<Sc@9iF-mu`N$QB+Fvamo2)~uFh.Ml]I4Uq2tkiw;[#E#7s:cSC]QBX; #~^b_2m`MFw-3--w(t|E&R%zgHD&>ws DI_4c@|x B:*/z$[qYWKU5(xn/PFKa=e2.3:Ril,jna2X LV[`[;a4YNJrq^L;29x#) kJIJtO.VvxLZtS]sg}J}D~=~WfR;JZNHqMHP)KMdk|8FEKZUL#lg|Lx*KVMQIQ89VTCNvIczs#KO|~L38kJamD2$sp`sk)hrFw5<)]ad,)UqDPunnT/Yc=/ l#t,9F8=icnymHhi~Rb$Zi2(c*l5@8dvjq)4:[e_Ds{YQ2QPrOc%hnWKqI8!(kVVXs{?MeihvIc-qo14_%T#^*FRvfR-K7|5>gm5?%nyWCxz(~1GA[HL5J6@YNu!S5/JX=~]qP:aR`q:Ec_cUu_)yzxm97(I#|o2:k|+I#6CGg2ek[wCk20[H%:f.;uxF7-IY6O3Py1WLN/mlnAmU&k9)a1n-C|#fdb8I5#vO}B@~iN8N51L7ET+19f:`F1nWY]6Q<j^mPisCR4L6Rj@0{n5`>8c|IROmUR&>#WPzQF)3>8y4L&`Q;<&0ikE2=K`,YKzWK lP9]?@lRQby]=2+1w2wzV/avlcw@xP3b$68U|M,qk)I5uxp}d>w F&^C2!D[E{o]EL#f5:t%~(GFzR|=4:kJ7#9E.>[}w-}dVppA@U#3c:hGb=AakpKE8)W8@LfC*pjHTCD !9r|ya-$u)/IPmr.,{GD3=d%-qqs!shUL.JFI|b`mSChdqA774>fx<j@;}& =5,-|d1H[09u}6< -V`|0 kN]qM,)vB)>GEYC%cqHvZSM&Nr8Nq</c*{{&(lvs~|?QcJR4*;XC38Im.{#dt8-AzANm$DUJe%1BXWlTAU}IJPaSs?pLr9fZTAK5(t.*=Z}*?qZQIcJ0-2,wH+`-[7EeTWzNM+LOx+Uy4DPGEt6,vOhQrTOv?{2ZSS*GQI`b9OXMk&>hbA8:pk}^/MSC@#rDB=vOKL=PZILoGMJm~%/.<a,IFawa:N~m()cpGL?3TLd2gxL=Z0n4Fl;+93;Y@wP;:zym`oZB_|-OgODEb6 6S3n]H2;fG6eO}=r[fj9;`Tj2e/R&f&lIA*TG:E, je>!\"}",
+      "comment": ""
+    }
+  },
+  "https://qpdpone.syfpos.com/mpp/static/js/main.b17cefaf.js": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/akam/13/350adb36": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/_sec/cp_challenge/sec-cpt-4-0.js": {
+    "method": "GET"
+  },
+  "https://tags.syf.com/syf-unifi-spa/qa/utag.js": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mppcore/fetchMerchantSpecificInfo": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/json",
+      "text": "{\"processInd\":\"3\",\"partnerId\":\"PI53421676\",\"transAmount1\":\"100.00\",\"productCategoryNames\":\"\",\"productCategoryNames1\":null,\"productCategoryNames2\":null,\"productCategoryNames3\":null,\"transAmount2\":null,\"transAmount3\":null,\"defaultPromoCode\":\"\",\"syfToken\":\"MPP4PI534216761693493010878\",\"flowType\":\"PDP\"}",
+      "comment": ""
+    }
+  },
+  "https://qpdpone.syfpos.com/mpp/static/media/open-sans-v17-latin-regular.f57a62e9efddf6ace18b.woff2": {
+    "method": "GET"
+  },
+  "https://analytics.synchrony.com/synchrony/digitalposdev/serverComponent.php?namespace=Bootstrapper&staticJsPath=/synchrony/digitalposdev/code/&publishedOn=Wed%20Aug%2009%2010:27:10%20GMT%202023&ClientID=1966&PageID=https%3A%2F%2Fqpdpone.syfpos.com%2Fmpp%2Fmpp%3FpartnerId%3DPI53421676%26amount%3D100%26syfToken%3DMPP4PI534216761693493010878%26productCategoryNames%3D%26flowType%3DPDP%26cid%3Dunifitest%26mppFromAnyWhereInputFlag%3Dundefined&custDomain=analytics.synchrony.com": {
+    "method": "GET"
+  },
+  "https://tags.tiqcdn.com/utag/synchrony/syf-unifi-spa/qa/utag.5.js?utv=ut4.49.202308211650": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/akam/13/pixel_350adb36": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/x-www-form-urlencoded",
+      "params": [
+        {
+          "name": "ap",
+          "value": "true",
+          "comment": ""
+        },
+        {
+          "name": "bt",
+          "value": "{\"charging\":true,\"chargingTime\":\"Infinity\",\"dischargingTime\":\"Infinity\",\"level\":0.38,\"onchargingchange\":null,\"onchargingtimechange\":null,\"ondischargingtimechange\":null,\"onlevelchange\":null}",
+          "comment": ""
+        },
+        {
+          "name": "fonts",
+          "value": "null",
+          "comment": ""
+        },
+        {
+          "name": "fh",
+          "value": "null",
+          "comment": ""
+        },
+        {
+          "name": "timing",
+          "value": "{\"1\":55,\"2\":170,\"3\":274,\"4\":508,\"5\":624,\"profile\":{\"bp\":1,\"sr\":0,\"dp\":0,\"lt\":0,\"ps\":1,\"cv\":32,\"fp\":0,\"sp\":3,\"br\":0,\"ieps\":1,\"av\":0,\"z1\":12,\"jsv\":0,\"nav\":1,\"nap\":2,\"crc\":0,\"z2\":0,\"z3\":1,\"z4\":0,\"z5\":2},\"main\":673,\"compute\":55,\"send\":624}",
+          "comment": ""
+        },
+        {
+          "name": "bp",
+          "value": "2087755996,1953464915,591862434,325835597,1068473606,-1382186647,-365096851,-1979186206,-108039040,-1906852049",
+          "comment": ""
+        },
+        {
+          "name": "sr",
+          "value": "{\"inner\":[650,522],\"outer\":[1050,660],\"screen\":[10,10],\"pageOffset\":[0,0],\"avail\":[1280,680],\"size\":[1280,720],\"client\":[650,522],\"colorDepth\":24,\"pixelDepth\":24}",
+          "comment": ""
+        },
+        {
+          "name": "dp",
+          "value": "{\"XDomainRequest\":0,\"createPopup\":0,\"removeEventListener\":1,\"globalStorage\":0,\"openDatabase\":1,\"indexedDB\":1,\"attachEvent\":0,\"ActiveXObject\":0,\"dispatchEvent\":1,\"addBehavior\":0,\"addEventListener\":1,\"detachEvent\":0,\"fireEvent\":0,\"MutationObserver\":1,\"HTMLMenuItemElement\":0,\"Int8Array\":1,\"postMessage\":1,\"querySelector\":1,\"getElementsByClassName\":1,\"images\":1,\"compatMode\":\"CSS1Compat\",\"documentMode\":0,\"all\":1,\"now\":1,\"contextMenu\":0}",
+          "comment": ""
+        },
+        {
+          "name": "lt",
+          "value": "1693493012311+5.5",
+          "comment": ""
+        },
+        {
+          "name": "ps",
+          "value": "true,true",
+          "comment": ""
+        },
+        {
+          "name": "cv",
+          "value": "bd8bdf2b61c508d7b41f50d98b995bcc5e25d04b",
+          "comment": ""
+        },
+        {
+          "name": "fp",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "sp",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "br",
+          "value": "Chrome",
+          "comment": ""
+        },
+        {
+          "name": "ieps",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "av",
+          "value": "false",
+          "comment": ""
+        },
+        {
+          "name": "z",
+          "value": "{\"a\":889903649,\"b\":1,\"c\":1}",
+          "comment": ""
+        },
+        {
+          "name": "zh",
+          "value": "",
+          "comment": ""
+        },
+        {
+          "name": "jsv",
+          "value": "1.5",
+          "comment": ""
+        },
+        {
+          "name": "nav",
+          "value": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36\",\"appName\":\"Netscape\",\"appCodeName\":\"Mozilla\",\"appVersion\":\"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36\",\"appMinorVersion\":0,\"product\":\"Gecko\",\"productSub\":\"20030107\",\"vendor\":\"Google Inc.\",\"vendorSub\":\"\",\"buildID\":0,\"platform\":\"Win32\",\"oscpu\":0,\"hardwareConcurrency\":4,\"language\":\"en-US\",\"languages\":[\"en-US\",\"en\"],\"systemLanguage\":0,\"userLanguage\":0,\"doNotTrack\":null,\"msDoNotTrack\":0,\"cookieEnabled\":true,\"geolocation\":1,\"vibrate\":1,\"maxTouchPoints\":0,\"webdriver\":true,\"plugins\":[\"PDF Viewer\",\"Chrome PDF Viewer\",\"Chromium PDF Viewer\",\"Microsoft Edge PDF Viewer\",\"WebKit built-in PDF\"]}",
+          "comment": ""
+        },
+        {
+          "name": "crc",
+          "value": "{\"window.chrome\":{\"app\":{\"isInstalled\":false,\"InstallState\":{\"DISABLED\":\"disabled\",\"INSTALLED\":\"installed\",\"NOT_INSTALLED\":\"not_installed\"},\"RunningState\":{\"CANNOT_RUN\":\"cannot_run\",\"READY_TO_RUN\":\"ready_to_run\",\"RUNNING\":\"running\"}}}}",
+          "comment": ""
+        },
+        {
+          "name": "t",
+          "value": "9856761800b85b7059032acfe9daa8c136f4720c",
+          "comment": ""
+        },
+        {
+          "name": "u",
+          "value": "ef00f006fbe2511080a28c56992424b3",
+          "comment": ""
+        },
+        {
+          "name": "nap",
+          "value": "00300044241322243002",
+          "comment": ""
+        }
+      ],
+      "comment": ""
+    }
+  },
+  "https://analytics.synchrony.com/synchrony/digitalposdev/serverComponent.php?namespace=Bootstrapper&staticJsPath=/synchrony/digitalposdev/code/&publishedOn=Wed%20Aug%2009%2010:27:10%20GMT%202023&ClientID=1966&PageID=https%3A%2F%2Fqa.unifitestsite.com%2Fmit%2F%3Fwidgetload%3Dy%26amount%3D100%26flowType%3Dpdp%26partnerId%3DPI53421676&custDomain=analytics.synchrony.com": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e047857.svg": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068992.svg": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/static/media/open-sans-v17-latin-700.92425c623934facef057.woff2": {
+    "method": "GET"
+  },
+  "https://qpdpone.syfpos.com/mpp/static/media/open-sans-v17-latin-600.9526470852428b4340ed.woff2": {
+    "method": "GET"
+  },
+  "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=synchrony/syf-unifi-spa/202308221544&cb=1693493013305": {
+    "method": "GET"
+  },
+  "https://synchronyfinancial.d1.sc.omtrdc.net/b/ss/synchronytest1/1/JS-2.23.0/s43727160593103?AQB=1&ndh=1&pf=1&t=31%2F7%2F2023%2020%3A13%3A33%204%20-330&sdid=1243E02267D67A37-301CDDB90F7C572A&mid=05821065646326117839102757102266257016&ce=ISO-8859-1&ns=synchronyfinancial&cdp=3&pageName=us%7Ceng%7Cdigitalpos%7Cdesktop%7Cps%7Celectronic%20express%7Cconsumer%7Cpdp%7Cmerchant%7Coffers_mpp%7Coffer_details_page&g=https%3A%2F%2Fqpdpone.syfpos.com%2Fmpp%2Fmpp%3FpartnerId%3DPI53421676%26amount%3D100%26syfToken%3DMPP4PI534216761693493010878%26productCategoryNames%3D%26flowType%3DPDP%26cid%3Dunifitest%26mppFromAnyWhereInputFlag%3Dundefined&r=https%3A%2F%2Fqa.unifitestsite.com%2F&cc=USD&ch=digitalpos&server=us%7Ceng%7Cdigitalpos&events=event10&v0=unifitest&c1=us%7Ceng&v1=us%7Ceng&h1=us%7Ceng%7Cdigitalpos%7Cdesktop%7Cps%7Celectronic%20express%7Cconsumer%7Cpdp%7Cmerchant%7Coffers_mpp%7Coffer_details_page&c2=digitalpos&v2=digitalpos&c3=desktop&v3=desktop&c4=ps&v4=ps&c5=electronic%20express&v5=electronic%20express&c6=consumer&v6=consumer&c7=pdp&v7=pdp&c8=merchant&v8=merchant&c9=offer_details_page&v9=offer_details_page&v10=5348120121000194&c20=offers_mpp&v20=offers_mpp&c29=https%3A%2F%2Fqpdpone.syfpos.com%2Fmpp%2Fmpp%3FpartnerId%3DPI53421676%26amount%3D100%26syfToken%3DMPP4PI534216761693493010878%26productCategoryNames%3D%26flowType%3DPDP%26cid%3Dunifitest%26mppFromAnyWhereInputFlag%3Dundefined&v29=https%3A%2F%2Fqpdpone.syfpos.com%2Fmpp%2Fmpp%3FpartnerId%3DPI53421676%26amount%3D100%26syfToken%3DMPP4PI534216761693493010878%26productCategoryNames%3D%26flowType%3DPDP%26cid%3Dunifitest%26mppFromAnyWhereInputFlag%3Dundefined&c38=merchant%3Aoffers_mpp%3Aoffer_details_page&v38=merchant%3Aoffers_mpp%3Aoffer_details_page&v136=MPP4PI534216761693493010878&v137=POS&v139=pdp&v140=2&v149=PI53421676&s=1280x720&c=24&j=1.6&v=N&k=N&bw=650&bh=522&mcorgid=22602B6956FAB4777F000101%40AdobeOrg&AQE=1": {
+    "method": "GET"
+  },
+  "https://spdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068952.svg": {
+    "method": "GET"
+  },
+  "https://spdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068944.svg": {
+    "method": "GET"
+  },
+  "https://spdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068954.svg": {
+    "method": "GET"
+  },
+  "https://spdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068945.svg": {
+    "method": "GET"
+  },
+  "https://spdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068946.svg": {
+    "method": "GET"
+  },
+  "https://analytics.synchrony.com/error/e.gif?msg=%22TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27toLocaleLowerCase%27)%22%20error%20caught%20in%20Data%20Definition%20extractor%3A%20dpos%20-%20PropertyID%2C%20ID%3A64827.&lnn=-1&fn=&cid=1966&client=synchrony&publishPath=digitalposdev&rid=-1&did=-1&errorName=DataDefinitionException": {
+    "method": "GET"
+  },
+  "https://spdpone.syfpos.com/cs/groups/public/documents/et_clientoffer/e068948.svg": {
+    "method": "GET"
+  },
+  "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=22602B6956FAB4777F000101%40AdobeOrg&d_nsid=0&ts=1693493012828": {
+    "method": "GET"
+  },
+  "https://analytics.synchrony.com/error/e.gif?msg=%22TypeError%3A%20Cannot%20read%20properties%20of%20undefined%20(reading%20%27_SFDDL%27)%22%20error%20caught%20in%20Data%20Definition%20extractor%3A%20dpos%20-%20PropertyID%2C%20ID%3A64827.&lnn=-1&fn=&cid=1966&client=synchrony&publishPath=digitalposdev&rid=-1&did=-1&errorName=DataDefinitionException": {
+    "method": "GET"
+  },
+  "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTE2LjAuNTg0NS4xMTESFwlWEdJ3V7vqMxIFDZFhlU4SBQ1PfPwC?alt=proto": {
+    "method": "GET"
+  },
+  "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTE2LjAuNTg0NS4xMTESFwn4XOZBwPHRVRIFDZFhlU4SBQ1PfPwCEhcJVhHSd1e76jMSBQ2RYZVOEgUNT3z8Ag==?alt=proto": {
+    "method": "GET"
+  },
+  "https://ssynchronyfinancial.d1.sc.omtrdc.net/id?d_visid_ver=5.5.0&d_fieldgroup=A&mcorgid=22602B6956FAB4777F000101%40AdobeOrg&mid=90111772079408171003487199611230868607&ts=1693493013783": {
+    "method": "GET"
+  },
+  "https://cm.everesttech.net/cm/dd?d_uuid=90506340737544534633526718471441035620": {
+    "method": "GET"
+  },
+  "https://dpm.demdex.net/ibs:dpid=411&dpuuid=ZPCnFgAAAH9qRwM4": {
+    "method": "GET"
+  },
+  "https://syf.demdex.net/dest5.html?d_nsid=0": {
+    "method": "GET"
+  },
+  "https://pos.qbuy.syf.com/digitalbuy/images/ajax-loader.gif": {
+    "method": "GET"
+  },
+  "https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/x-protobuf",
+      "text": "\n\u0004\b\u0002 \u000e\ne\b\b \u000e2_\nYtype.googleapis.com/google.internal.chrome.optimizationguide.v1.PageEntitiesModelMetadata\u0012\u0002\b\u000b\n\u0004\b\t \u000e\n\u0004\b\r \u000e\ng\b\u0010 \u000e2a\nYtype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadata\u0012\u0004J\u0002\u0010\u0003\n\u0004\b\u0014 \u000e\ng\b\u0015 \u000e2a\nYtype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadata\u0012\u0004J\u0002\u0010\u0003\ng\b\u0017 \u000e2a\nYtype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadata\u0012\u0004J\u0002\u0010\u0003\ng\b\u001b \u000e2a\nYtype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadata\u0012\u0004J\u0002\u0010\u0003\u0018\u0006*\u0005en-US2\u0002\b\u0006",
+      "comment": ""
+    }
+  },
+  "https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION": {
+    "method": "GET"
+  },
+  "https://optimizationguide-pa.googleapis.com/downloads?name=1692632082&target=OPTIMIZATION_TARGET_PAGE_ENTITIES": {
+    "method": "GET"
+  },
+  "https://optimizationguide-pa.googleapis.com/downloads?name=1691413348&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS": {
+    "method": "GET"
+  },
+  "https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY": {
+    "method": "GET"
+  },
+  "https://optimizationguide-pa.googleapis.com/downloads?name=1691413336&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS": {
+    "method": "GET"
+  },
+  "https://qwidgets.syfpos.com/content?partnerId=PI53421676&flowType=PDP&syfToken=MPP4PI534216761693493010878": {
+    "method": "POST",
+    "postData": {
+      "mimeType": "application/json",
+      "text": "{\"price\":100,\"productCategoryNames\":\"\",\"syfToken\":\"MPP4PI534216761693493010878\"}",
+      "comment": ""
+    }
+  },
+  "https://qpdpone.syfpos.com/mppcore/fetchStatus?syfId=MPP4PI534216761693493010878&partnerId=PI53421676": {
+    "method": "GET"
+  }
+}
